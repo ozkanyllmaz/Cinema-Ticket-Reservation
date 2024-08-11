@@ -14,7 +14,8 @@ This project is a simple cinema ticket reservation system built using HTML, CSS,
 
 Here's a screenshot of the application:
 
-![Cinema Ticket Reservation Screenshot](screenshot.png)
+![screenshot](https://github.com/user-attachments/assets/2658010a-d08a-4f86-9d12-e4a45447ca3f)
+
 
 ## Installation
 
